@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm RMK</h1>
 <h3 align="center">A passionate frontend developer from Korea</h3>
 
-- 🔭 I’m currently working on [ex-product-service](https://github.com/rmk-3850/ex-product-api-v1.git)
+- 🔭 I’m currently working on
+  [ex-infra](https://github.com/rmk-3850/ex-infra.git)
+  [ex-product-service](https://github.com/rmk-3850/ex-product-api-v1.git)
 
 - 📫 How to reach me **qop589@gmail.com**
 
