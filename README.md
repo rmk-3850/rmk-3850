@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Korea</h3>
 
 - 🔭 I’m currently working on
-  [ex-infra](https://github.com/rmk-3850/ex-infra.git)
+  [ex-springCloudGateway](https://github.com/rmk-3850/ex-springCloudGateway.git)
+  [ex-user-service](https://github.com/rmk-3850/ex-user-api-v1.git)
   [ex-product-service](https://github.com/rmk-3850/ex-product-api-v1.git)
 
 - 📫 How to reach me **qop589@gmail.com**
